@@ -26,5 +26,6 @@
     "eslint-plugin-vue": "^5.0.0",
     "prettier": "^1.19.1",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "main": "./lib/package-b.common.js"
 }
