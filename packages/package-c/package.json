@@ -1,9 +1,9 @@
 {
   "name": "package-c",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "package-a": "^0.1.0"
+    "package-a": "^0.1.1-alpha.0"
   }
 }
